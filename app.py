@@ -22,7 +22,7 @@ def predict():
     
     if prediction==1:
         output="Yes"
-    elif
+    else:
         output="No"
     
 
